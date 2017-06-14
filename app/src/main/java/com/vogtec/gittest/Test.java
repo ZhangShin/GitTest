@@ -5,7 +5,5 @@ package com.vogtec.gittest;
  */
 
 public class Test {
-    //test 提交
-    //test 提交
 
 }
